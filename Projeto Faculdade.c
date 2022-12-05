@@ -22,4 +22,5 @@ int main(){
      printf("\n30 >= IMC < 34  Obeso");
      printf("\nAcima de 34     Muito Obeso");
      printf("\n------------------------------");
+
 }
