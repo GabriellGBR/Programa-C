@@ -10,4 +10,5 @@ int main(){
 
    altura = pow(altura,2);
    IMC = peso/altura;
+   printf("Valor IMC: %.2f", IMC);
 }
